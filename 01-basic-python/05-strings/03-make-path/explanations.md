@@ -9,4 +9,4 @@ should then return `'a/b/c'`.
 
 As always, try to find built-in functionality that does most
 of the work for you. Hint: look for `join` in the
-[documentation](https://docs.python.org/3/library/stdtypes.html#text-sequence-type-str).
+[documentation](https://docs.python.org/3/library/stdtypes.html#text-sequence-type-str). 

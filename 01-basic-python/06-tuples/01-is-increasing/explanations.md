@@ -5,7 +5,7 @@ In our opinion, it is rather boring: it is mostly exactly the same
 as a list, except that it is immutable: once created, you cannot alter
 it in any way. This property will come in handy later, when we
 deal with dictionaries.
-
+ 
 A tuple looks like this:
 
 ```python

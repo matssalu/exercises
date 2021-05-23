@@ -1,6 +1,6 @@
 # Assignment
 
-XKCD, in case you didn't know, is a [webcomic by Randall Munroe](https://en.wikipedia.org/wiki/Xkcd).
+XKCD, in case you didn't know, is a [webcomic by Randall Munroe](   ).
 Each comic has its own number. At the time of writing, the latest has number 2121.
 
 Write a script that, given a number, fetches information about an XKCD comic and

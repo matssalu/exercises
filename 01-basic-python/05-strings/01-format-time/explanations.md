@@ -46,3 +46,4 @@ In an f-string, all occurrences of `{expr}` are replaced by the value of `expr`.
 
 For single digit numbers, you need to add leading zeros: e.g., `"5"`
 must be expanded to `"05"`. Consult the [Python docs](https://docs.python.org/3/library/stdtypes.html#string-methods). Hint: `rjust`.
+ 

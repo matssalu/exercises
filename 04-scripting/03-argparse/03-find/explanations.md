@@ -1,4 +1,4 @@
-# Assignment
+# Assignment 
 
 Write a script `find.py` that prints out all files and directories
 that satisfy certain conditions.

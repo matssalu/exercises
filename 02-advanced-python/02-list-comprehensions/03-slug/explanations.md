@@ -1,4 +1,4 @@
-# Assignment
+# Assignment 
 
 We have a of name (of a person) and wish to derive a [slug](https://en.wikipedia.org/wiki/Clean_URL#Slug) from it. For example, the slug for `John Johnson` is `johnson-john`.
 The rules regarding slugs are
